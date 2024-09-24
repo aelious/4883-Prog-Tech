@@ -1,4 +1,6 @@
 ## A05 - Easy Breezy
+### Stephanie Nagel
+### Description:
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
