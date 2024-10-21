@@ -1,3 +1,9 @@
+/**
+* Name: Stephanie Nagel
+* Course: CMPS 4883 - Prog Tech
+* Date: 10/20/2024
+*/
+
 class Solution {
 public:
     int hammingWeight(int n) {
