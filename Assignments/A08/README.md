@@ -8,6 +8,6 @@ This was a challenging problem. You are given a list of rooms with the keys that
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-| 1  |  [Assignment](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A08)     |   Choose from the given problems.    |
+| 1  |  [Assignment](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/08-A08)     |   Choose from the given problems.    |
 | 2 | [LC-841](https://leetcode.com/problems/keys-and-rooms/description/) | Keys and Rooms |
 | 3 | [main.cpp](https://github.com/aelious/4883-Prog-Tech/blob/main/Assignments/A08/main.cpp) | My solution. | 

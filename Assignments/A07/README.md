@@ -7,6 +7,6 @@ My approach to this problem was similar to how I solved the last problem. The de
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-| 1  |  [Assignment](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A07)     |   Choose from the given problems.    |
+| 1  |  [Assignment](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/07-A07)     |   Choose from the given problems.    |
 | 2 | [LC-215](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)  | Kth Largest Element in an Array  |
 | 3 | [main.cpp](https://github.com/aelious/4883-Prog-Tech/blob/main/Assignments/A07/main.cpp)  | My solution.  | 

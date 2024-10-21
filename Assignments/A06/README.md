@@ -10,6 +10,6 @@ To solve this, I first created a map and traversed the vector, adding 1 to the k
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
-| 1  |  [Assignment](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/A06)     |   Choose from the given problems.    |
+| 1  |  [Assignment](https://github.com/rugbyprof/4883-Programming_Techniques/tree/master/Assignments/06-A06)     |   Choose from the given problems.    |
 | 2 | [LC-692](https://leetcode.com/problems/top-k-frequent-words/)  | Top K Frequent Words Problem  |
 | 3 | [main.cpp](https://github.com/aelious/4883-Prog-Tech/blob/main/Assignments/A06/main.cpp)  | My solution.  |
