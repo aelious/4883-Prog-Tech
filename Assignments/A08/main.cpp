@@ -22,6 +22,7 @@ public:
                             flag = true; // new key found, continue to search through the unopened rooms
                         }
                     }
+                    entered[it->first] = 1;
                 }
             }
         }
