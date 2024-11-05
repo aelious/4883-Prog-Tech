@@ -1,4 +1,4 @@
-LeetCode 1281
+## LeetCode 1281 - Subtract the Product and Sum of Digits of an Integer solution
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |

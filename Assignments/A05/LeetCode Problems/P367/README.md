@@ -1,4 +1,4 @@
-LeetCode 367 - Valid Perfect Square
+## LeetCode 367 - Valid Perfect Square
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |

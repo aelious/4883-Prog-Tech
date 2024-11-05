@@ -1,4 +1,4 @@
-LeetCode 66 - Plus One
+## LeetCode 66 - Plus One
 
 |  #  | Folder Link | Assignment Description |
 | :-: | ----------- | ---------------------- |
