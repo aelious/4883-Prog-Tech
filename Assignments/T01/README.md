@@ -10,4 +10,3 @@ Reviewing some paths for the given problems for Tuesday's test
 | 4 | [Medium Option 1](https://leetcode.com/problems/game-of-life/description/?envType=study-plan-v2&envId=top-interview-150) | LC-289: Game of Life |
 | 5 | [Medium Option 2](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150) | LC-102: Binary Tree Level Order Traversal |
 | 6 | [Medium Option 3](https://leetcode.com/problems/number-of-islands/description/?envType=study-plan-v2&envId=top-interview-150) | LC-200: Number of Islands |
-| 7 | [notes]() | My notes on the solutions and outlines of the data types that could be used. | 
